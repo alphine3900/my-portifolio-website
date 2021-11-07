@@ -1,13 +1,17 @@
-# {my portifolio},{07/11/2021}
-#### {it explains more about me}
-#### BY{Alphine mutwiri}
-## {it tells more on me,education ,work experiencemy skills and hobby and means that you can contact me though and also contains a list of project done}
-## {installation requirement should me authorised by the owner}
-## {Technologies used are HTML and CSS}
-## { *0745098630 *alphinekirimi@gmail.com}
-### {
+# my portifolio
+#### BY Alphine mutwiri
+## description
+ it tells more on me,education ,work experiencemy skills and hobby and means that you can contact me though and also contains a list of project done
+## installation requirement
+clone the project from the repository and run in the browser
+## Technologies used 
+ 1. HTML 
+ 1. CSS
+ ## live site
+ [click here](https://alphine3900.github.io/my-portifolio-website/)
+## license
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2021] [Alphine mutwiri kirimi]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
